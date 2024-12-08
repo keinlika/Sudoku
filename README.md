@@ -40,7 +40,5 @@ While the Sudoku solver is functional, there are several improvements and featur
 
 - **Performance Optimization**: Improve the backtracking algorithm for larger Sudoku puzzles (e.g., 16x16 boards).
 - **GUI Integration**: Create a graphical user interface (GUI) for a more user-friendly experience.
-- **Advanced Puzzle Generation**: Implement a method to generate new Sudoku puzzles with varying difficulty levels.
-- **Enhanced Testing**: Extend the test suite to include edge cases like unsolvable puzzles and puzzles with multiple solutions.
 - **AI Integration**: Explore the possibility of integrating AI to predict and assist in solving puzzles with hints or guidance.
 
