@@ -1,4 +1,4 @@
-# Overview
+# Sudoku Console Application game.
 
 As part of my continuous growth as a software engineer, I developed a Sudoku solver using Python to practice algorithm design, problem-solving, and software testing. The goal of this project was to build a robust, efficient solution to solve standard 9x9 Sudoku puzzles, leveraging the backtracking algorithm—a depth-first search technique commonly used in constraint satisfaction problems. 
 
