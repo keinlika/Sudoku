@@ -6,7 +6,6 @@ Additionally, I wanted to integrate the ability to load Sudoku puzzles from a JS
 
 The project demonstrates my ability to design a solution, manage input/output with JSON, and apply testing principles to validate my software.
 
-[Software Demo Video](https://vimeo.com/1037127388?share=copy)
 
 # Development Environment
 
